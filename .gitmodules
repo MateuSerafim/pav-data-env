@@ -1,0 +1,6 @@
+[submodule "pav-data-api"]
+	path = pav-data-api
+	url = https://github.com/MateuSerafim/pav-data-api.git
+[submodule "pav-data-worker"]
+	path = pav-data-worker
+	url = https://github.com/MateuSerafim/pav-data-worker.git
